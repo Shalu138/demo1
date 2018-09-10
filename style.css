@@ -87,4 +87,21 @@ header a:hover{
 .box{
 	border: 2px solid black;
 	padding: 20px;
+	display: block;
+	margin: 10px;
 }
+
+#showcase1 .c1, .c2, .c3{
+	text-align: center;
+	box-sizing: border-box;
+	padding: 20px;
+	border: 2px solid black;
+	margin: 4px;
+	
+	}
+#showcase .a1{
+	height:600px;
+	width: 900px;
+	text-align: center;
+	}
+
